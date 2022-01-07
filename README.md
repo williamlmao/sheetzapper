@@ -1,4 +1,5 @@
 ![Data studio report example](img/dsexample.png)
+![Sheet](img/sheet.png)
 
 # Overview
 
@@ -24,7 +25,8 @@ This tool is free, easy to set up, and doesn't require a connection to any of yo
 4. Run "First time setup" again. The first time triggers the auth, this second time actually runs the function. You'll know it's set up properly once you get a message that says "If you see this message, setup is complete"
 5. Sheetzapper -> Setup daily import. This automates the tool to pull in your data every day.
 6. To check your current balances, click Sheetzapper -> Current Account Balances. The Zapper endpoint can take a little while since it is checking your wallets against all of its supported apps.
-7. There will be some pre-built charts in the Charts tab, but for nicer data visualizations you can copy this data studio report and then connect it to your own sheet. Click copy ->
+7. To visualize the data, copy [this report](https://datastudio.google.com/reporting/bc7ecbc9-87ea-439e-a354-108db0630c48/page/nZ2iC/edit) (click 3 dots in top right corner -> copy report). You'll be prompted to configure a new data source. Select Google sheets, and then make sure you select the `Balances Over Time` tab.
+   ![Data studio connection](img/dsconnect.png)
 
 # What wallets/dapps are supported?
 
