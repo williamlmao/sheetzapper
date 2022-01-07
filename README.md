@@ -1,4 +1,4 @@
-![Data studio report example]("./img/dsexample.png")
+![Data studio report example]("img/dsexample.png")
 
 # Overview
 
