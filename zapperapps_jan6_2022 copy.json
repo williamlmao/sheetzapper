@@ -1,0 +1,2918 @@
+[
+  {
+    "id": "aave-amm",
+    "tags": ["lending"],
+    "name": "Aave AMM",
+    "url": "https://aave.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#1c1d26",
+    "token": {
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "aave-safety-module",
+    "tags": ["liquidity-pool"],
+    "name": "Aave Safety Module",
+    "url": "https://aave.com/",
+    "supportedNetworks": [],
+    "primaryColor": "#1c1d26",
+    "token": {
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "aave",
+    "tags": ["lending"],
+    "name": "Aave",
+    "url": "https://aave.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#1c1d26",
+    "token": {
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "aave-v2",
+    "tags": ["lending"],
+    "name": "Aave V2",
+    "url": "https://aave.com/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view", "transact"]
+      }
+    ],
+    "primaryColor": "#1c1d26",
+    "token": {
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "aavegotchi",
+    "tags": ["yield-aggregator"],
+    "name": "Aavegotchi",
+    "url": "https://aavegotchi.com/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "abracadabra",
+    "tags": ["lending"],
+    "name": "Abracadabra",
+    "url": "https://abracadabra.money/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "adamant",
+    "tags": ["yield-aggregator"],
+    "name": "Adamant Finance",
+    "url": "https://adamant.finance/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "alchemix",
+    "tags": ["lending"],
+    "name": "Alchemix",
+    "url": "https://alchemix.fi/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "alkemi",
+    "tags": ["lending", "yield-aggregator"],
+    "name": "Alkemi Network",
+    "url": "https://alkemi.network/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": "0x6c16119b20fa52600230f074b349da3cb861a7e3",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "alpha-tokenomics",
+    "tags": ["elastic-finance"],
+    "name": "Alpha Tokenomics",
+    "url": "https://tokenomics.alphafinance.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "alpha-v1",
+    "tags": ["lending"],
+    "name": "Alpha",
+    "url": "https://homora.alphafinance.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "alpha-v2",
+    "tags": ["lending"],
+    "name": "Alpha V2",
+    "url": "https://homora-v2.alphafinance.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "amp",
+    "tags": ["exchange"],
+    "name": "Amp",
+    "url": "https://app.flexa.network/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "ampleforth",
+    "tags": ["yield-aggregator"],
+    "name": "Ampleforth",
+    "url": "https://www.ampleforth.org/",
+    "supportedNetworks": []
+  },
+  {
+    "id": "ape-tax",
+    "tags": ["yield-aggregator"],
+    "name": "Ape Tax",
+    "url": "https://ape.tax/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view", "transact"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view", "transact"]
+      }
+    ]
+  },
+  {
+    "id": "apeswap",
+    "tags": ["liquidity-pool"],
+    "name": "ApeSwap",
+    "url": "https://ape.tax/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "apy",
+    "tags": ["yield-aggregator"],
+    "name": "APY",
+    "url": "https://apy.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "arcx",
+    "tags": ["yield-aggregator"],
+    "name": "ARCx",
+    "url": "https://arcx.money/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "armor",
+    "tags": ["insurance"],
+    "name": "Armor",
+    "url": "https://armor.fi/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "autofarm",
+    "tags": ["yield-aggregator"],
+    "name": "AutoFarm",
+    "url": "https://autofarm.network/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "b-protocol",
+    "tags": ["lending"],
+    "name": "B.Protocol",
+    "url": "https://www.bprotocol.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "badger",
+    "tags": ["yield-aggregator"],
+    "name": "Badger",
+    "url": "https://badger.com/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "balancer-v1",
+    "tags": ["liquidity-pool"],
+    "name": "Balancer",
+    "url": "https://pools.balancer.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view", "transact"]
+      }
+    ],
+    "primaryColor": "#1c1d26",
+    "token": {
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "balancer-v2",
+    "tags": ["liquidity-pool"],
+    "name": "Balancer V2",
+    "url": "https://app.balancer.fi/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      },
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#1c1d26",
+    "token": {
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "bancor",
+    "tags": ["liquidity-pool"],
+    "name": "Bancor",
+    "url": "https://app.bancor.network/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "bao",
+    "tags": ["liquidity-pool"],
+    "name": "Bao",
+    "url": "https://www.bao.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "barnbridge",
+    "tags": ["tokenized-risk-protocol"],
+    "name": "BarnBridge",
+    "url": "https://app.barnbridge.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "barnbridge-smart-yield",
+    "tags": ["tokenized-risk-protocol"],
+    "name": "BarnBridge Smart Yield",
+    "url": "https://app.barnbridge.com/smart-alpha/pools",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "basket-dao",
+    "tags": ["asset-management"],
+    "name": "Basket DAO",
+    "url": "https://basketdao.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "beefy",
+    "tags": ["yield-aggregator"],
+    "name": "Beefy Finance",
+    "url": "https://app.beefy.finance/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      },
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "beethoven-x",
+    "tags": ["yield-aggregator"],
+    "name": "Beethoven-X",
+    "url": "https://app.beets.fi/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": " 0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
+      "network": "fantom"
+    }
+  },
+  {
+    "id": "belt",
+    "tags": ["liquidity-pool"],
+    "name": "Belt",
+    "url": "https://belt.fi/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
+      "network": "binance-smart-chain"
+    }
+  },
+  {
+    "id": "benchmark",
+    "tags": ["liquidity-pool"],
+    "name": "Benchmark",
+    "url": "https://benchmarkprotocol.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": "0x67c597624b17b16fb77959217360b7cd18284253",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "benqi",
+    "tags": ["lending"],
+    "name": "Benqi",
+    "url": "https://benqi.fi/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+      "network": "avalanche"
+    }
+  },
+  {
+    "id": "bitcoin",
+    "tags": [],
+    "name": "Bitcoin",
+    "url": "https://www.michael.com/",
+    "supportedNetworks": []
+  },
+  {
+    "id": "blizz",
+    "tags": ["lending"],
+    "name": "Blizz",
+    "url": "https://blizz.finance/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": "0xb147656604217a03fe2c73c4838770df8d9d21b8",
+      "network": "avalanche"
+    }
+  },
+  {
+    "id": "boring-dao",
+    "tags": ["infrastructure"],
+    "name": "Boring DAO",
+    "url": "https://www.boringdao.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": "0xbc19712feb3a26080ebf6f2f7849b417fdd792ca",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "botto",
+    "tags": ["asset-management"],
+    "name": "Botto",
+    "url": "https://botto.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "bzx",
+    "tags": ["lending"],
+    "name": "bZx",
+    "url": "https://bzx.network/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#33decc",
+    "token": {
+      "address": "0x4b87642aedf10b642be4663db842ecc5a88bf5ba",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "compound",
+    "tags": ["lending"],
+    "name": "Compound",
+    "url": "https://compound.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#00d395",
+    "token": {
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "convex",
+    "tags": ["yield-aggregator"],
+    "name": "Convex",
+    "url": "https://www.convexfinance.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#1682fe",
+    "token": {
+      "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "cream",
+    "tags": ["lending"],
+    "name": "Cream",
+    "url": "https://cream.finance/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#151b28",
+    "token": {
+      "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "cream-iron-bank",
+    "tags": ["lending"],
+    "name": "Cream Iron Bank",
+    "url": "https://cream.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#151b28",
+    "token": {
+      "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "cryptex",
+    "tags": ["liquidity-pool"],
+    "name": "Cyptex",
+    "url": "https://cryptex.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#e440f2",
+    "token": {
+      "address": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "curve",
+    "tags": ["liquidity-pool"],
+    "name": "Curve",
+    "url": "https://curve.fi",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#34649c",
+    "token": {
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "defi-kingdoms",
+    "tags": ["gaming"],
+    "name": "DeFi Kingdoms",
+    "url": "https://www.defikingdoms.com/",
+    "supportedNetworks": [
+      {
+        "network": "harmony",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "defi-swap",
+    "tags": ["liquidity-pool"],
+    "name": "DeFi Swap",
+    "url": "https://crypto.com/defi/swap/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "defisaver",
+    "tags": ["lending"],
+    "name": "DefiSaver",
+    "url": "https://defisaver.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "derivadex",
+    "tags": ["derivatives"],
+    "name": "DerivaDEX",
+    "url": "https://derivadex.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "dforce",
+    "tags": ["yield-aggregator"],
+    "name": "dForce",
+    "url": "https://dforce.network/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "dfyn",
+    "tags": ["liquidity-pool"],
+    "name": "Dfyn",
+    "url": "https://dfyn.network/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "dhedge",
+    "tags": ["asset-management"],
+    "name": "dHedge",
+    "url": "https://www.dhedge.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "dinoswap",
+    "tags": ["liquidity-pool"],
+    "name": "DinoSwap",
+    "url": "https://dinoswap.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "dodo",
+    "tags": ["liquidity-pool", "exchange"],
+    "name": "Dodo",
+    "url": "https://dodoex.io/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "dopex",
+    "tags": ["options"],
+    "name": "Dopex",
+    "url": "https://dopex.io/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "dydx",
+    "tags": ["margin-trading", "lending"],
+    "name": "dYdX",
+    "url": "https://dydx.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "88mph",
+    "tags": ["lending"],
+    "name": "88mph",
+    "url": "https://88mph.app/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "88mph-v3",
+    "tags": ["lending"],
+    "name": "88mph V3",
+    "url": "https://88mph.app/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "element",
+    "tags": ["lending"],
+    "name": "Element",
+    "url": "https://www.element.fi/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "eleven-finance",
+    "tags": ["yield-aggregator"],
+    "name": "Eleven Finance",
+    "url": "https://eleven.finance/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      },
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "ellipsis",
+    "tags": ["liquidity-pool"],
+    "name": "Ellipsis",
+    "url": "https://ellipsis.finance/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#313131",
+    "token": {
+      "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "essentia",
+    "tags": ["infrastructure"],
+    "name": "Essentia",
+    "url": "https://essentia.one/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "ethereum",
+    "tags": ["infrastructure"],
+    "name": "Ethereum",
+    "url": "https://ethereum.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "fei",
+    "tags": ["asset-management"],
+    "name": "Fei",
+    "url": "https://fei.money/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "float-protocol",
+    "tags": ["asset-management"],
+    "name": "Float",
+    "url": "https://floatprotocol.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "frax",
+    "tags": ["asset-management"],
+    "name": "Frax",
+    "url": "https://frax.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "geist",
+    "tags": ["lending"],
+    "name": "Geist",
+    "url": "https://geist.finance/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view", "transact"]
+      }
+    ],
+    "primaryColor": "#bcfd71",
+    "token": {
+      "address": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d",
+      "network": "fantom"
+    }
+  },
+  {
+    "id": "gmx",
+    "tags": ["margin-trading"],
+    "name": "GMX",
+    "url": "https://gmx.io/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#2d42fc",
+    "token": {
+      "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+      "network": "arbitrum"
+    }
+  },
+  {
+    "id": "governor-dao",
+    "tags": ["liquidity-pool"],
+    "name": "Governor DAO",
+    "url": "https://governordao.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "grim",
+    "tags": ["yield-aggregator"],
+    "name": "Grim Finance",
+    "url": "https://www.grim.finance/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#c11828"
+  },
+  {
+    "id": "gro",
+    "tags": ["lending"],
+    "name": "Gro",
+    "url": "https://www.gro.xyz/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "harvest",
+    "tags": ["yield-aggregator"],
+    "name": "Harvest",
+    "url": "https://harvest.finance/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#eda629",
+    "token": {
+      "address": "0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "hector-dao",
+    "tags": ["elastic-finance"],
+    "name": "Hector DAO",
+    "url": "https://hectordao.com/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "hegic",
+    "tags": ["options"],
+    "name": "Hegic",
+    "url": "https://www.hegic.co/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "hop",
+    "tags": [],
+    "name": "Hop",
+    "url": "https://hop.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "hundred-finance",
+    "tags": ["lending"],
+    "name": "Hundred Finance",
+    "url": "https://hundred.finance//",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      },
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "idle",
+    "tags": ["yield-aggregator"],
+    "name": "Idle",
+    "url": "https://idle.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "illuvium",
+    "tags": ["gaming"],
+    "name": "Illuvium",
+    "url": "https://www.illuvium.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "index-coop",
+    "tags": ["asset-indexes"],
+    "name": "Index Coop",
+    "url": "https://www.indexcoop.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "indexed",
+    "tags": ["fund-manager"],
+    "name": "Indexed",
+    "url": "https://indexed.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "inverse",
+    "tags": ["yield-aggregator", "lending"],
+    "name": "Inverse Finance",
+    "url": "https://www.inverse.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "iron",
+    "tags": ["elastic-finance"],
+    "name": "Iron",
+    "url": "https://iron.finance/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "keep-network",
+    "tags": ["fund-manager"],
+    "name": "Keep Network",
+    "url": "https://keep.network/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "keeper-dao",
+    "tags": ["yield-aggregator"],
+    "name": "KeeperDAO",
+    "url": "https://www.keeperdao.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "klima",
+    "tags": ["elastic-finance"],
+    "name": "Klima",
+    "url": "https://www.klimadao.finance/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "klondike",
+    "tags": ["fund-manager"],
+    "name": "Klondike",
+    "url": "https://klondike.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "kogefarm",
+    "tags": ["yield-aggregator"],
+    "name": "KogeFarm",
+    "url": "https://www.kogefarm.io/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "kyber-dao",
+    "tags": ["exchange"],
+    "name": "Kyber DAO",
+    "url": "https://kyber.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "kyber-dmm",
+    "tags": ["liquidity-pool"],
+    "name": "Kyber DMM",
+    "url": "https://dmm.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view", "stake", "transact"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view", "stake", "transact"]
+      }
+    ]
+  },
+  {
+    "id": "launchpool",
+    "tags": ["liquidity-pool"],
+    "name": "Launchpool",
+    "url": "https://launchpool.xyz/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "liquiddriver",
+    "tags": ["yield-aggregator"],
+    "name": "LiquidDriver",
+    "url": "https://www.liquiddriver.finance/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
+      "network": "fantom"
+    }
+  },
+  {
+    "id": "liquity",
+    "tags": ["lending"],
+    "name": "Liquity",
+    "url": "https://www.liquity.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "loopring",
+    "tags": ["exchange"],
+    "name": "Loopring",
+    "url": "https://loopring.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "lydia",
+    "tags": ["liquidity-pool"],
+    "name": "Lydia Finance",
+    "url": "https://www.lydia.finance/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "lyra",
+    "tags": ["options"],
+    "name": "Lyra",
+    "url": "https://www.lyra.finance/",
+    "supportedNetworks": [
+      {
+        "network": "optimism",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "maker",
+    "tags": ["lending"],
+    "name": "Maker",
+    "url": "https://makerdao.com/en/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "maple",
+    "tags": ["lending"],
+    "name": "Maple",
+    "url": "https://www.maple.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "mirror",
+    "tags": ["liquidity-pool"],
+    "name": "Mirror",
+    "url": "https://mirror.xyz/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "mooniswap",
+    "tags": ["exchange"],
+    "name": "Mooniswap",
+    "url": "https://mooniswap.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "morpheusswap",
+    "tags": ["yield-aggregator"],
+    "name": "MorpheusSwap",
+    "url": "https://morpheusswap.finance/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": "0x0789ff5ba37f72abc4d561d00648acadc897b32d",
+      "network": "fantom"
+    }
+  },
+  {
+    "id": "mstable",
+    "tags": ["asset-management"],
+    "name": "mStable",
+    "url": "https://mstable.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "mushroom",
+    "tags": ["yield-aggregator"],
+    "name": "Mushroom",
+    "url": "https://mushrooms.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "nexus-mutual",
+    "tags": [],
+    "name": "Nexus Mutual",
+    "url": "https://nexusmutual.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "nft",
+    "tags": [],
+    "name": "NFT",
+    "url": "https://opensea.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "nft20",
+    "tags": [],
+    "name": "NFT20",
+    "url": "https://nft20.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "nftx",
+    "tags": [],
+    "name": "NFTX",
+    "url": "https://nftx.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "nsure-network",
+    "tags": ["insurance"],
+    "name": "Nsure",
+    "url": "https://nsure.network/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "olympus",
+    "tags": ["elastic-finance"],
+    "name": "Olympus",
+    "url": "https://www.olympusdao.finance/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "ondo",
+    "tags": ["yield-aggregator"],
+    "name": "Ondo Finance",
+    "url": "https://ondo.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "1inch",
+    "tags": ["exchange"],
+    "name": "1inch",
+    "url": "https://1inch.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view", "transact", "stake"]
+      }
+    ],
+    "primaryColor": "#3a619d",
+    "token": {
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "onx",
+    "tags": ["lending"],
+    "name": "OnX",
+    "url": "https://onx.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "opium-network",
+    "tags": ["derivatives"],
+    "name": "Opium",
+    "url": "https://opium.network/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "opyn",
+    "tags": ["options"],
+    "name": "Opyn",
+    "url": "https://www.opyn.co/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "origin",
+    "tags": ["stablecoin"],
+    "name": "Origin",
+    "url": "https://ousd.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#1762ee",
+    "token": {
+      "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "orion-protocol",
+    "tags": ["exchange"],
+    "name": "Orion",
+    "url": "https://www.orionprotocol.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "otterclam",
+    "tags": ["elastic-finance"],
+    "name": "Otterclam",
+    "url": "https://www.otterclam.finance/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "pancakeswap",
+    "tags": ["liquidity-pool"],
+    "name": "PancakeSwap",
+    "url": "https://pancakeswap.finance/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#1fc8d4",
+    "token": {
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "pangolin",
+    "tags": ["liquidity-pool"],
+    "name": "Pangolin",
+    "url": "https://pangolin.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "penguin",
+    "tags": ["yield-aggregator"],
+    "name": "Penguin Finance",
+    "url": "https://penguinfinance.org/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "perpetual-protocol",
+    "tags": ["exchange"],
+    "name": "Perpetual",
+    "url": "https://perp.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "pickle",
+    "tags": ["yield-aggregator"],
+    "name": "Pickle",
+    "url": "https://pickle.finance/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#1b8d54",
+    "token": {
+      "address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "pie-dao",
+    "tags": ["liquidity-pool"],
+    "name": "PieDAO",
+    "url": "https://www.piedao.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "polywhale",
+    "tags": ["yield-aggregator"],
+    "name": "Polywhale",
+    "url": "https://polywhale.finance/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "pooltogether",
+    "tags": ["no-loss-lottery"],
+    "name": "PoolTogether",
+    "url": "https://pooltogether.com/",
+    "supportedNetworks": [
+      {
+        "network": "celo",
+        "actions": ["view", "transact"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view", "transact"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view", "transact"]
+      }
+    ],
+    "primaryColor": "#843ff3",
+    "token": {
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "pooltogether-v4",
+    "tags": ["no-loss-lottery"],
+    "name": "PoolTogether V4",
+    "url": "https://pooltogether.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      },
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#843ff3",
+    "token": {
+      "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "popsicle",
+    "tags": ["liquidity-pool"],
+    "name": "Popsicle",
+    "url": "https://popsicle.finance/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "powerpool",
+    "tags": ["asset-bundles"],
+    "name": "PowerPool",
+    "url": "https://powerpool.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "qi-dao",
+    "tags": ["lending"],
+    "name": "Qi Dao",
+    "url": "https://www.mai.finance/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "quickswap",
+    "tags": ["liquidity-pool"],
+    "name": "Quickswap",
+    "url": "https://quickswap.exchange/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#2172e5",
+    "token": {
+      "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "r-u-generous",
+    "tags": ["elastic-finance"],
+    "name": "R U Generous",
+    "url": "https://www.rug.farm",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "railgun",
+    "tags": ["exchange"],
+    "name": "Railgun",
+    "url": "https://railgun.ch/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "rally",
+    "tags": ["asset-management"],
+    "name": "Rally",
+    "url": "https://rally.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "rari",
+    "tags": ["fund-manager"],
+    "name": "Rari Capital",
+    "url": "https://rari.capital/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "rari-fuse",
+    "tags": ["liquidity-pool"],
+    "name": "Rari Fuse",
+    "url": "https://rari.capital/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "realt",
+    "tags": ["real-estate"],
+    "name": "RealT",
+    "url": "https://realt.co/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "reaper",
+    "tags": ["yield-aggregator"],
+    "name": "Reaper",
+    "url": "https://www.reaper.farm/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "redacted-cartel",
+    "tags": ["elastic-finance"],
+    "name": "Redacted Cartel",
+    "url": "https://www.redactedcartel.xyz/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "reflexer",
+    "tags": ["lending"],
+    "name": "Reflexer",
+    "url": "https://reflexer.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "ren",
+    "tags": ["infrastructure"],
+    "name": "Ren",
+    "url": "https://renproject.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#f5f6f8",
+    "token": {
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "ribbon",
+    "tags": ["yield-aggregator"],
+    "name": "Ribbon",
+    "url": "https://www.ribbon.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "ribbon-v2",
+    "tags": ["yield-aggregator"],
+    "name": "Ribbon V2",
+    "url": "https://www.ribbon.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "romedao",
+    "tags": ["elastic-finance"],
+    "name": "RomeDAO",
+    "url": "https://romedao.finance/",
+    "supportedNetworks": [
+      {
+        "network": "moonriver",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "sablier",
+    "tags": ["payroll"],
+    "name": "Sablier",
+    "url": "https://sablier.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "saddle",
+    "tags": ["liquidity-pool"],
+    "name": "Saddle",
+    "url": "https://saddle.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "scarecrow",
+    "tags": ["yield-aggregator"],
+    "name": "ScareCrow",
+    "url": "https://app.scarecrow.fi/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ],
+    "token": {
+      "address": "0x46e1ee17f51c52661d04238f1700c547de3b84a1",
+      "network": "fantom"
+    }
+  },
+  {
+    "id": "scream",
+    "tags": ["lending"],
+    "name": "Scream",
+    "url": "https://scream.sh/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "shapeshift",
+    "tags": ["exchange"],
+    "name": "Shapeshift",
+    "url": "https://shapeshift.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "shared-stake",
+    "tags": ["infrastructure"],
+    "name": "Shared Stake",
+    "url": "https://www.sharedstake.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "shell",
+    "tags": ["liquidity-pool"],
+    "name": "Shell",
+    "url": "https://www.shellprotocol.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "snowball",
+    "tags": ["yield-aggregator"],
+    "name": "Snowball Finance",
+    "url": "https://snowball.network/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "snowbank",
+    "tags": ["elastic-finance"],
+    "name": "Snowbank",
+    "url": "https://www.snowbank.finance/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "snowdog",
+    "tags": ["elastic-finance"],
+    "name": "Snowdog Dao",
+    "url": "https://www.snowdogdao.com",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "snowswap",
+    "tags": ["liquidity-pool"],
+    "name": "SnowSwap",
+    "url": "https://snowswap.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "spartacus",
+    "tags": ["elastic-finance"],
+    "name": "Spartacus",
+    "url": "https://app.spartacus.finance/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "spiritswap",
+    "tags": ["liquidity-pool"],
+    "name": "SpiritSwap",
+    "url": "https://www.spiritswap.finance/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "spookyswap",
+    "tags": ["liquidity-pool"],
+    "name": "SpookySwap",
+    "url": "https://spookyswap.finance/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "squid",
+    "tags": ["elastic-finance"],
+    "name": "SquidDao",
+    "url": "https://squid.xyz/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "stake-dao",
+    "tags": ["fund-manager"],
+    "name": "Stake DAO",
+    "url": "https://stakedao.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "stormswap",
+    "tags": ["yield-aggregator"],
+    "name": "StormSwap",
+    "url": "https://stormswap.finance/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "superfluid",
+    "tags": ["payroll"],
+    "name": "Superfluid",
+    "url": "https://www.superfluid.finance/",
+    "supportedNetworks": [
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "sushiswap",
+    "tags": ["liquidity-pool"],
+    "name": "Sushiswap",
+    "url": "https://sushi.com",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view", "transact"]
+      },
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#887eb3",
+    "token": {
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "sushiswap-bentobox",
+    "tags": ["lending"],
+    "name": "SushiSwap BentoBox",
+    "url": "https://sushi.com",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#887eb3",
+    "token": {
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "sushiswap-kashi",
+    "tags": ["lending"],
+    "name": "SushiSwap Kashi",
+    "url": "https://sushi.com",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#887eb3",
+    "token": {
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "swapr",
+    "tags": ["liquidity-pool"],
+    "name": "Swapr",
+    "url": "https://swapr.eth.link/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "swerve",
+    "tags": ["liquidity-pool"],
+    "name": "Swerve",
+    "url": "https://swerve.fi/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "synlev",
+    "tags": ["liquidity-pool"],
+    "name": "SynLev",
+    "url": "https://synlev.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "synthetix",
+    "tags": ["liquidity-pool"],
+    "name": "Synthetix",
+    "url": "https://synthetix.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view", "stake", "transact"]
+      },
+      {
+        "network": "optimism",
+        "actions": ["view", "stake"]
+      }
+    ]
+  },
+  {
+    "id": "tarot",
+    "tags": ["lending", "yield-aggregator"],
+    "name": "Tarot",
+    "url": "https://www.tarot.to/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "teddy-cash",
+    "tags": ["lending"],
+    "name": "Teddy Cash",
+    "url": "https://teddy.cash/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "the-graph",
+    "tags": ["liquidity-pool"],
+    "name": "The Graph",
+    "url": "https://thegraph.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "tokemak",
+    "tags": ["liquidity-pool"],
+    "name": "Tokemak",
+    "url": "https://www.tokemak.xyz/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "tokenlon",
+    "tags": ["asset-management"],
+    "name": "Tokenlon",
+    "url": "https://tokenlon.im/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "tokens",
+    "tags": [],
+    "name": "Tokens",
+    "url": "https://ethereum.org/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      },
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "celo",
+        "actions": ["view"]
+      },
+      {
+        "network": "harmony",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      },
+      {
+        "network": "optimism",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "tokensets",
+    "tags": ["asset-bundles"],
+    "name": "TokenSets",
+    "url": "https://www.tokensets.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "tomb",
+    "tags": [],
+    "name": "Tomb Finance",
+    "url": "http://tomb.finance/",
+    "supportedNetworks": [
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "tornado-cash",
+    "tags": ["infrastructure"],
+    "name": "Tornado Cash",
+    "url": "https://tornado.cash/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "traderjoe",
+    "tags": ["liquidity-pool"],
+    "name": "Trader Joe",
+    "url": "https://traderjoexyz.com/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#ee6662",
+    "token": {
+      "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "network": "avalanche"
+    }
+  },
+  {
+    "id": "traderjoe-banker",
+    "tags": ["lending"],
+    "name": "Banker Joe",
+    "url": "https://traderjoexyz.com/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#ee6662",
+    "token": {
+      "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "network": "avalanche"
+    }
+  },
+  {
+    "id": "truefi",
+    "tags": ["lending"],
+    "name": "TrueFi",
+    "url": "https://truefi.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#143cff",
+    "token": {
+      "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "ubeswap",
+    "tags": ["liquidity-pool"],
+    "name": "Ubeswap",
+    "url": "https://ubeswap.org/",
+    "supportedNetworks": [
+      {
+        "network": "celo",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#a261b6",
+    "token": {
+      "address": "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec",
+      "network": "celo"
+    }
+  },
+  {
+    "id": "unagii",
+    "tags": ["yield-aggregator"],
+    "name": "Unagii",
+    "url": "https://www.unagii.com/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#e46b43"
+  },
+  {
+    "id": "uniswap",
+    "tags": ["exchange"],
+    "name": "Uniswap",
+    "url": "https://uniswap.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#f80076",
+    "token": {
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "uniswap-v2",
+    "tags": ["liquidity-pool"],
+    "name": "Uniswap V2",
+    "url": "https://uniswap.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view", "stake", "transact"]
+      }
+    ],
+    "primaryColor": "#f80076",
+    "token": {
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "uniswap-v3",
+    "tags": ["liquidity-pool"],
+    "name": "Uniswap V3",
+    "url": "https://uniswap.org/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      },
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      },
+      {
+        "network": "optimism",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#f80076",
+    "token": {
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "unit",
+    "tags": ["lending"],
+    "name": "Unit",
+    "url": "https://unit.xyz/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "universe",
+    "tags": [],
+    "name": "Universe",
+    "url": "https://universe.xyz/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "vader",
+    "tags": ["elastic-finance"],
+    "name": "Vader",
+    "url": "https://www.vaderprotocol.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "venus",
+    "tags": ["lending"],
+    "name": "Venus",
+    "url": "https://venus.io/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "vesper",
+    "tags": ["yield-aggregator"],
+    "name": "Vesper",
+    "url": "https://vesper.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "visor",
+    "tags": ["fund-manager"],
+    "name": "Visor",
+    "url": "https://www.visor.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ],
+    "primaryColor": "#d5f966",
+    "token": {
+      "address": "0xf938424f7210f31df2aee3011291b658f872e91e",
+      "network": "ethereum"
+    }
+  },
+  {
+    "id": "waultswap",
+    "tags": ["liquidity-pool"],
+    "name": "WaultSwap",
+    "url": "https://wault.finance/",
+    "supportedNetworks": [
+      {
+        "network": "binance-smart-chain",
+        "actions": ["view"]
+      },
+      {
+        "network": "polygon",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "wepiggy",
+    "tags": ["lending"],
+    "name": "WePiggy",
+    "url": "https://wepiggy.com/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "wonderland",
+    "tags": ["elastic-finance"],
+    "name": "Wonderland",
+    "url": "https://www.wonderland.money/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      },
+      {
+        "network": "fantom",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "xsigma",
+    "tags": ["liquidity-pool"],
+    "name": "xSigma",
+    "url": "https://xsigma.fi/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "xtoken",
+    "tags": ["asset-management"],
+    "name": "xToken",
+    "url": "https://xtoken.market/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "yam",
+    "tags": ["asset-management"],
+    "name": "Yam",
+    "url": "https://yam.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "yaxis",
+    "tags": ["yield-aggregator"],
+    "name": "yAxis",
+    "url": "https://www.yaxis.io/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "yearn",
+    "tags": ["yield-aggregator"],
+    "name": "Yearn",
+    "url": "https://yearn.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view", "transact"]
+      }
+    ],
+    "primaryColor": "#036eef"
+  },
+  {
+    "id": "yieldyak",
+    "tags": ["yield-aggregator"],
+    "name": "YieldYak",
+    "url": "https://yieldyak.com/",
+    "supportedNetworks": [
+      {
+        "network": "avalanche",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "zero-x",
+    "tags": ["exchange"],
+    "name": "0x",
+    "url": "https://0x.org/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "zerotwohm",
+    "tags": ["elastic-finance"],
+    "name": "Zerotwohm",
+    "url": "https://zerotwohm.finance/",
+    "supportedNetworks": [
+      {
+        "network": "arbitrum",
+        "actions": ["view"]
+      }
+    ]
+  },
+  {
+    "id": "zlot",
+    "tags": ["yield-aggregator"],
+    "name": "zLOT",
+    "url": "https://zlot.finance/",
+    "supportedNetworks": [
+      {
+        "network": "ethereum",
+        "actions": ["view"]
+      }
+    ]
+  }
+]
