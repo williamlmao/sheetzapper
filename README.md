@@ -16,9 +16,11 @@ This tool is free, easy to set up, and doesn't require a connection to any of yo
 
 # Set up
 
-1. Copy this sheet
+1. Copy [this sheet](https://docs.google.com/spreadsheets/d/1y41yE1sKH6ogZ_JK3HiFJHKRXhzsIRZG6mXDbgOeQCI/edit#gid=0). You'll see some data in there already, that's just from random wallets I found on blockchain explorers so you can see what the data looks like. The setup process will clear this data.
 2. Find the Sheetzapper button in the menu bar. It may take ~20 seconds for it to appear after copying.
-3. In the dropdown, click "First time setup". This will prompt an authorization window. Click continue -> Select your google account -> When you see "Google hasn’t verified this app", click "advanced" -> Go to Sheetzapper (unsafe). This message is just appearing because Google hasn't verified this code. You can and should read through it yourself before proceeding if you're concerned.
+   ![Menu button](img/menubar.png)
+3. In the dropdown, click "First time setup". This will prompt an authorization window. Click continue -> Select your google account -> When you see "Google hasn’t verified this app", click "advanced" -> Go to Sheetzapper (unsafe). **This message might look scary, but it is just appearing because Google hasn't verified this code. You can and should read through it yourself before proceeding if you're concerned.**
+   ![Advanced](img/authflowunsafe.png)
 4. Run "First time setup" again. The first time triggers the auth, this second time actually runs the function. You'll know it's set up properly once you get a message that says "If you see this message, setup is complete"
 5. Sheetzapper -> Setup daily import. This automates the tool to pull in your data every day.
 6. To check your current balances, click Sheetzapper -> Current Account Balances. The Zapper endpoint can take a little while since it is checking your wallets against all of its supported apps.
@@ -27,3 +29,5 @@ This tool is free, easy to set up, and doesn't require a connection to any of yo
 # What wallets/dapps are supported?
 
 Check the zapperapps_jan6_2022.json file to see all supported dapps as of 1/6/22. You can also check the zapper endpoint at a later date to see if they have added any new ones.
+
+(Note: If you are using this to track DeFi kingdoms balances, this will not track most items or heroes.)
