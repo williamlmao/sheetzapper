@@ -1,7 +1,7 @@
 function onOpen() {
   var ui = SpreadsheetApp.getUi();
   // Or DocumentApp or FormApp.
-  ui.createMenu("SheetZapper")
+  ui.createMenu("Sheetzapper")
     .addItem("Current Account Balances", "getCurrentBalances")
     .addSeparator()
     .addItem("Set up daily import", "setUpDailyTrigger")
